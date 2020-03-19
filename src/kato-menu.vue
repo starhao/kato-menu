@@ -10,7 +10,7 @@
 </template>
 
 <script>
-  import MultiMenu from './components/multi-menu'
+  import MultiMenu from './components/multi-menu.vue'
 
   export default {
     name: 'KatoMenu',
